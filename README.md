@@ -50,11 +50,3 @@ To create an inclusive, high-performance, and visually compelling event portal t
 ✅ **No Backend/Server-Side Scripting** (Pure Frontend)
 
 ---
-
-## 📂 Project Structure
-TechFest/
-│
-├── index.html          # Main HTML structure
-├── styles.css          # Complete styling with CSS variables
-├── script.js           # All functionality and event data
-└── README.md          # Project documentation
